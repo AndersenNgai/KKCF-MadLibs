@@ -10,7 +10,8 @@ let number = 10;
 let eaten = number + 5;
 let bool = false;
 let input = prompt("Enter a plural noun, preferably something that can be eaten...");
-console.log("Once upon a time, a " + adj + " air-breathing " + noun + " that came up from the ocean " +
+let string = "Once upon a time, a " + adj + " air-breathing " + noun + " that came up from the ocean " +
    verb + " to attack a city. A tiny boy ate " + number + " radioactive spiders and 5 " + input +
     ", so he ate " + eaten + " things. The prophecy that the boy would defeat the Kraken was " +
-   bool + ". The Kraken flung the boy 10,000 miles away and destroyed the city.");
+   bool + ". The Kraken flung the boy 10,000 miles away and destroyed the city.";
+console.log(string);
