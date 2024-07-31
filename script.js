@@ -2,7 +2,7 @@
 // A tiny boy ate 10 radioactive spiders and 5 [user input], so he ate 5 + 10 = 15 things.
 // He turned into Spiderman or something, then attacked the Kraken.
 // The prophecy that the boy would defeat the Kraken was [false].
-// The Kraken flung the boy 10,000 miles away, crushed him, and destroyed the city.
+// The Kraken flung the boy 10,000 miles away and destroyed the city.
 let noun = "Kraken";
 let adj = "giant";
 let verb = "began";
